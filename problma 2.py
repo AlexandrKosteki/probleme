@@ -1,0 +1,12 @@
+a=20
+b=10
+suma=a+b
+diferenta = a-b
+produsul = a*b
+cîtul = a//b
+restul= a%b
+print(a,"+",b,"=",suma)
+print(a,"-",b,"=",diferenta)
+print(a,"*",b,"=",produsul)
+print(a,"//",b,"=",cîtul)
+print(a,"%",b,"=",restul)

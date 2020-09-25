@@ -1,0 +1,11 @@
+n=20
+centimetri=n*100
+milimetri=n*1000000
+luni=n*12
+saptamini=n*52
+zile=n*365
+print(n,"*",100,"=",centimetri)
+print(n,"*",1000000,"=",milimetri)
+print(n,"*",12,"=",luni)
+print(n,"*",52,"=",saptamini)
+print(n,"*",365,"=",zile)
